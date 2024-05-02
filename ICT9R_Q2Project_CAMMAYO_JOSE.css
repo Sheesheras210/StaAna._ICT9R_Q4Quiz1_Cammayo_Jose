@@ -1,0 +1,126 @@
+body {
+	text-align: center;
+	background-size: cover;
+	background-image: url(wallpaper2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+table {
+	padding: 10px;
+	border: solid 10px
+}
+h1 {
+	letter-spacing: 5px;
+}
+div {
+	margin: 20px;
+	padding: 10px;
+	border: solid black 10px;
+
+}
+#Title
+{
+
+	width: 100%;
+	background-color: gold;
+	letter-spacing: 10px;
+}
+
+#guide {
+	letter-spacing: 5px;
+	margin: right;
+	width: 100%;
+	color: white;
+	background-color: brown;
+	letter-spacing: 5px;
+	border-radius: 100px;
+	
+}
+
+#box1 {
+	display: inline-block;
+	width: 25%;
+	height: 25%;
+	margin: 20px;
+	padding: 10px;
+	border: double black 5px;
+	background-color: red;
+	display: inline-block;
+	text-align: center;
+
+}
+
+
+
+#box2 {
+	display: inline-block;
+	width: 30%;
+	margin: 30px;
+	padding: 10px;
+	border: double black 5px;
+	background-color: blue;
+	display: inline-block;
+}
+
+#box3{
+display: inline-block;
+	width: 25%;
+	height: 25%;
+	margin: 20px;
+	padding: 10px;
+	border: double black 5px;
+	background-color: red;
+	display: inline-block;
+	text-align: center;
+}
+
+
+#box4 {
+	display: inline-block;
+	width: 30%;
+	margin: 30px;
+	padding: 10px;
+	border: double black 5px;
+	background-color: blue;
+	display: inline-block;
+}
+
+
+
+#box5{
+display: inline-block;
+	width: 25%;
+	height: 25%;
+	margin: 20px;
+	padding: 10px;
+	border: double black 5px;
+	background-color: red;
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+#box6{
+	display: inline-block;
+	width: 30%;
+	margin: 30px;
+	padding: 10px;
+	border: double black 5px;
+	background-color: blue;
+	display: inline-block;
+}
+
+small {
+letter-spacing: 7px;
+font-family: monospace;
+color: white;
+}
+
+h3{
+	background-color: purple;
+}
+p {
+	color: white;
+	background-color: darkred;
+}
